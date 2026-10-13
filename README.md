@@ -47,6 +47,7 @@ for better ways of doing things and actively contribute to open source.
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 
 ## Featured Projects
-- **[ansible-hardened-docker-host](https://github.com/jezmn/ansible-hardened-docker-host)** — Playbooks that harden a fresh Ubuntu server into a secure Docker host.
+- **[ansible-hardened-docker-host](https://github.com/jezmn/ansible-hardened-docker-host)** — Hardened Docker host from a fresh server, provisioned with Ansible.
+- **[Agent-sandbox](https://github.com/jezmn/agent-sandbox)** – Filesystem Isolation for AI Coding Agents.
 - **[hanesu](https://github.com/jezmn/hanesu)** — Workflow layer for AI coding agents, published on npm.
 - **[or-solver](https://github.com/jezmn/or-solver)** — Web-based Operations Research solver with interactive step-by-step solutions.
