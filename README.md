@@ -28,7 +28,6 @@ for better ways of doing things and actively contribute to open source.
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat&logo=hyprland&logoColor=white)
-![DankMaterialShell](https://img.shields.io/badge/DankMaterialShell-2E7DE9?style=flat&logoColor=white)
 ![KeePassXC](https://img.shields.io/badge/KeePassXC-6CC24A?style=flat&logo=keepassxc&logoColor=white)
 <br>
 ![kitty](https://img.shields.io/badge/kitty-000000?style=flat&logo=gnometerminal&logoColor=white)
