@@ -1,9 +1,8 @@
 # Jesus Abdiel Moreno
 
-Backend & DevOps Engineer driven by a deep curiosity for how systems work at every level. I focus
-on infrastructure automation, containerization and production deployments, with a preference for
-minimalist and maintainable solutions. I actively contribute to open source and constantly look for
-better ways of doing things.
+<p align="justify">
+Backend & DevOps Engineer driven by a deep curiosity for how systems work at every level. I focus on infrastructure automation, containerization and production deployments, with a preference for minimalist and maintainable solutions. I actively contribute to open source and constantly look for better ways of doing things.
+</p>
 
 ## Stack
 
